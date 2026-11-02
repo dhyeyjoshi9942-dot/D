@@ -1,0 +1,13 @@
+BDA400 Assignment 3 — Test Evidence
+Student: Dhyeykumar Joshi
+
+STATUS: ..
+
+1. Open AI_RFunction.R in RStudio.
+2. Select Source and run the complete script.
+3. Paste the actual R console output below (replace this instructional section).
+4. Include the R version and date and confirm whether all stopifnot() checks passed.
+5. Attach an authentic RStudio screenshot if preferred.
+
+ACTUAL OUTPUT:
+
